@@ -1,0 +1,10 @@
+.box_property {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+.properties__list {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
